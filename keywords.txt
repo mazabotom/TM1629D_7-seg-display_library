@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For TM16xx Lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TM16xx	KEYWORD1
+TM1629D	KEYWORD1
+TM1629D_CC	KEYWORD1
+TM16xxDisplay	KEYWORD1
+TM16xxFonts	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setupDisplay	KEYWORD2
+setDisplayToString	KEYWORD2
+setDisplayToDecNumber	KEYWORD2
+setDisplayDigit	KEYWORD2
+setDisplay	KEYWORD2
+clearDisplay	KEYWORD2
+clearDisplayDigit	KEYWORD2
+setDisplayToString	KEYWORD2
+sendCommand	KEYWORD2
+sendData	KEYWORD2
+sendChar	KEYWORD2
+send	KEYWORD2
+clear	KEYWORD2
+setBrightness	KEYWORD2
+setCursor	KEYWORD2
+setDisplayToError	KEYWORD2
+setDisplayToSignedDecNumber	KEYWORD2
+setNumDigits	KEYWORD2
+sendAsciiChar	KEYWORD2
+Print	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

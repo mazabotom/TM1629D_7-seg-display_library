@@ -1,6 +1,6 @@
 # Arduino TM1629D library
 
-Arduino library for TM1629D chip use.
+Arduino library for TM1629D chip.
 
 Library based on the TM16xx library made by maxint-rd:
 [maxint-rd TM16xx library](https://github.com/maxint-rd/TM16xx) for TM1629D chip.

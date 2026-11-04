@@ -1,4 +1,4 @@
-##TM1629D library
+# Arduino TM1629D library
 
 Arduino library for TM1629D chip use.
 
